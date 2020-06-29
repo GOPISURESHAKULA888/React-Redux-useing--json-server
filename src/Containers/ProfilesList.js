@@ -58,12 +58,7 @@ if(!this.props.getfetchprofiledata){
     return (
       <div>
         <ul >{this.renderProfilesList()}
-        
-        {/* <Button  
-        onClick={this.props.getProfilesList}
-        style={{width:"22vw"}} type="primary" danger>
-         click me to Server details
-    </Button> */}
+     
     </ul>
       </div>
     );
