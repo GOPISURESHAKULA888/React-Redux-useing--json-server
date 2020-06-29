@@ -1,0 +1,4 @@
+export const FETCH_PROFILES='FETCH_PROFILES'
+export const Create_PROFILE='Create_PROFILE'
+export const DELETE_PROFILE='DELETE_PROFILE'
+export const EDIT_PROFILE='EDIT_PROFILE'
